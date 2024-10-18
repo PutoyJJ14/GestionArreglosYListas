@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GestionArreglosYListas": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
